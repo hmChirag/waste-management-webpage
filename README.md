@@ -1,4 +1,5 @@
 # CAPS Foundation Waste Management Project
+(CAPS: Comprehensive Assessment of Public Services)
 
 Welcome to the CAPS Foundation Waste Management Project repository! This project is aimed at creating a platform where users can contribute unused and unwanted items from their homes, such as clothes, gadgets, and more, which will be collected and donated to those in need.
 
